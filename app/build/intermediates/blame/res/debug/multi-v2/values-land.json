@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\FastfoodStore\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\84899\\.gradle\\caches\\transforms-2\\files-2.1\\b5227b928939f19120b5a2231959b34a\\jetified-card-form-3.1.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,192",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "114,187,260"
+                    },
+                    "to": {
+                        "startLines": "5,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "264,328,401",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "323,396,469"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\84899\\.gradle\\caches\\transforms-2\\files-2.1\\8bfbad5813b28816eef2cb857c2d86b0\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\84899\\.gradle\\caches\\transforms-2\\files-2.1\\c4fd1e7b549f1c978520f912eb01fd4c\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "474",
+                        "endLines": "11",
+                        "endColumns": "10",
+                        "endOffsets": "641"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">992382940639-qobon3lgcpqmvj2ukaeunr6uhl9nd7jk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">992382940639</string>
+    <string name="google_api_key" translatable="false">AIzaSyA7wUBZ7nybllHFuHLldpi3oPVlHVXWPfM</string>
+    <string name="google_app_id" translatable="false">1:992382940639:android:fa28b46c655a1465c0c06a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7wUBZ7nybllHFuHLldpi3oPVlHVXWPfM</string>
+    <string name="google_storage_bucket" translatable="false">fastfood-store-79628.appspot.com</string>
+    <string name="project_id" translatable="false">fastfood-store-79628</string>
+</resources>

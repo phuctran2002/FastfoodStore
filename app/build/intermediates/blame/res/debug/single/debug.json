@@ -1,0 +1,1338 @@
+[
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_card_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\card_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_logout_background.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\button_logout_background.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_admin_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_admin_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_address.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_password.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_password.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_admin_account.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_admin_account.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_edit_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_edit_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_cake.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_cake.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cash_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\cash_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_location_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cart.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_editaddress_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_editaddress_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_register.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_admin_register.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_white_24dp.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_white_24dp.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cart.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_facebook.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_admin_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_admin_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_payment.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_location_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_location_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_instagram.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_address.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_edit_address.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_location_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_profile.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_profile.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_cakeimg_background.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\cakeimg_background.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pp.jpg.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\pp.jpg"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_deletepayment.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_deletepayment.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_location_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tickcircle.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\tickcircle.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_order_confirmation.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\order_confirmation.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_delete.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_white_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_white_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_profile.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_profile.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_delete_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_delete_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_facebook.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_border.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\circle_border.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_page.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\fragment_home_page.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_rules.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_conform_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_conform_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_profile.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_profile.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_call_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_call_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_cake.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_cake.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_deletepayment_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_deletepayment_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_add_to_cart.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\button_add_to_cart.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_cancel_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cancel_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cart.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_remove.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_call_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_call_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admin_profile.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\fragment_admin_profile.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_profile.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_profile.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_deliver_img_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\deliver_img_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cakeimg_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\cakeimg_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_cake.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_cake.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cart.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_remove.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_remove.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_locations.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_locations.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_update_items.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_update_items.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cake_page.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\fragment_cake_page.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_conform_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_conform_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_confirmations.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_order_confirmations.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_location_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_home.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_user_home.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ickack_background.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ickack_background.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_visa_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_visa_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_order_confirmation_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\order_confirmation_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_admin_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_admin_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cash_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\cash_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_white_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_white_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_update_items.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_update_items.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_remove.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_delete_background.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\button_delete_background.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_locations_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_locations_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cakeimg_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\cakeimg_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card.jpg.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\card.jpg"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cakeimg_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\cakeimg_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_playstore.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\playstore.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person1.jpg.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\person1.jpg"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_login.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_registration.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_user_registration.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_admin_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_admin_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\xml_data_extraction_rules.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tickinsidecircle.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\tickinsidecircle.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_deliver_img.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\deliver_img.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_appbar_layout.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\appbar_layout.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_profile.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_profile.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ickack_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ickack_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_grey_bordersolid.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\circular_grey_bordersolid.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_location.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_right_mark_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_right_mark_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_update_items.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_update_items.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cart.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cart.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_call_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_call_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cash.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\cash.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_locations_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_locations_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cakeimg_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\cakeimg_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_cash_payment.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cash_payment.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_button.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\delete_button.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select__payment__method.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_select__payment__method.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback_update.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_feedback_update.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ratings_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ratings_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_facebook.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_facebook.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_facebook.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_progfile_edit.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_user_progfile_edit.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_payment.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_payment.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cakeimg_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\cakeimg_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_instagram.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_cake.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_cake.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_editaddress.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_editaddress.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_white_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_white_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_account.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_account.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_profile_image.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_profile_image.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_order_confirmation_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\order_confirmation_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback_ratings.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_feedback_ratings.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_main.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_profile_main.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_payment.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_payment.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ickack_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ickack_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_profile_image.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_profile_image.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_add_now.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\button_add_now.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ickack_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ickack_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_payment_cards.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_payment_cards.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_visa_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_visa_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_purchase_success.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_purchase_success.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_payment.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_background.jpg.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\login_background.jpg"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_remove.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fastfood.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\fastfood.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bg.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\ic_bg.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_profile_image.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_profile_image.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circularbordersolid.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\circularbordersolid.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_delete_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_delete_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_update_items.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_update_items.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_update_cake.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\fragment_update_cake.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user_account.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user_account.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paintbrush.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\paintbrush.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_cancel_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cancel_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_home.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_admin_home.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_update_items.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_update_items.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_instagram.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_instagram.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buynow.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\buynow.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_deletepayment_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_deletepayment_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_white_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_white_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circleyellowfil.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\circleyellowfil.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_profile_image.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_profile_image.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_conform_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_conform_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_conform_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_conform_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_cake.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\fragment_add_cake.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grad.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\grad.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_cake_item.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\single_cake_item.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_profile.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_profile.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_card_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\card_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_right_mark.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_right_mark.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_location_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_location_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cakeimg_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\cakeimg_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_update_items.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_update_items.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cakeimg.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\cakeimg.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spring.jpg.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\spring.jpg"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_card.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\card.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_admin_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_admin_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inputs.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\inputs.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_android.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\android.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_facebook.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_location_24dp.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_location_24dp.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_call_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_call_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_conform_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_conform_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_white_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_white_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_facebook.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_facebook.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_remove.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person2.jpg.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\person2.jpg"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_deliver_img_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\deliver_img_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ratings_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ratings_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_facebook.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_profile.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_profile.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_right_mark_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_right_mark_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_instagram.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person3.jpg.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\person3.jpg"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ickack_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ickack_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_call_24dp.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_call_24dp.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_update_items.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_update_items.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_instagram.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_cash_payment_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cash_payment_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email_24dp.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_24dp.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_remove.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_edit.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_editaddress_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_editaddress_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ickack_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ickack_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_background2.jpg.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\login_background2.jpg"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_payment.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_call_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_call_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_view.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_payment.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_payment.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_remove.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cart.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_button.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\input_button.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cakeimg_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\cakeimg_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_admin_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_admin_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_cash_payment_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cash_payment_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cart.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_profile_image.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_profile_image.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cart.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cart.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_account.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_account.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_input.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_conform_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_conform_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_visa.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_visa.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back_24dp.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back_24dp.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_admin_cake_item.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\single_admin_cake_item.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_conform_password.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_conform_password.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_white_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_white_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ickack_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ickack_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_call_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_call_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_cake.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_cake.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_edit_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_edit_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location_24dp.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_location_24dp.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_location_foreground.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_location_foreground.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ickack.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ickack.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cakeimg_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\cakeimg_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ickack_background.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ickack_background.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_cart_cake.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\layout\\single_cart_cake.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\menu_user_navigation_menu.xml.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\menu\\user_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_instagram.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_instagram.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_instagram.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_profile_image.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_profile_image.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_password.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ickack_round.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ickack_round.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fastfood.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\fastfood.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_cancel.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ratings.png.flat",
+        "source": "E:\\FastfoodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ratings.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_profile_image.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_profile_image.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_cake.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_cake.png"
+    },
+    {
+        "merged": "E:\\FastfoodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_cake.png.flat",
+        "source": "E:\\FastfoodStore\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_cake.png"
+    }
+]
