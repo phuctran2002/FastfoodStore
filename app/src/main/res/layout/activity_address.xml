@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Address">
+
+    <Button
+        android:id="@+id/btnAddress"
+        android:layout_width="309dp"
+        android:layout_height="53dp"
+        android:layout_marginBottom="68dp"
+        android:background="@drawable/button_background"
+        android:text="Continue"
+        android:textColor="@color/colorWhite"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtEditCity"
+        app:layout_constraintVertical_bias="0.671" />
+
+    <TextView
+        android:id="@+id/txtcars"
+        android:layout_width="373dp"
+        android:layout_height="66dp"
+        android:text="Enter Your Deliver Address"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.484"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.084" />
+
+    <EditText
+        android:id="@+id/txtEditname"
+        android:layout_width="329dp"
+        android:layout_height="46dp"
+        android:hint="Name"
+        android:background="@drawable/custom_input"
+        android:paddingLeft="@dimen/dimen35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.776"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.23"
+        tools:hint="@string/Name" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="50dp"
+        android:layout_height="45dp"
+        app:layout_constraintBottom_toTopOf="@+id/txtcont2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.038"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtcars"
+        app:layout_constraintVertical_bias="0.456"
+        app:srcCompat="@mipmap/ic_location_foreground" />
+
+    <EditText
+        android:id="@+id/txtcont2"
+        android:layout_width="78dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="276dp"
+        android:layout_marginRight="276dp"
+        android:background="@drawable/custom_input"
+        android:hint="Street"
+        android:paddingLeft="@dimen/dimen20sp"
+        android:text="+84"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txtEditname"
+        app:layout_constraintHorizontal_bias="0.178"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/txtEditname"
+        app:layout_constraintVertical_bias="0.061" />
+
+    <EditText
+        android:id="@+id/txteditStreet"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/custom_input"
+        android:hint="Strret"
+        android:paddingLeft="@dimen/dimen35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txtEditCont"
+        app:layout_constraintHorizontal_bias="0.125"
+        app:layout_constraintStart_toStartOf="@+id/txtcont2"
+        app:layout_constraintTop_toBottomOf="@+id/txtEditCont"
+        app:layout_constraintVertical_bias="0.034"
+        tools:hint="@string/Street" />
+
+    <EditText
+        android:id="@+id/txteditStreet2"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/custom_input"
+        android:hint="Street"
+        android:paddingLeft="@dimen/dimen35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txteditStreet"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/txteditStreet"
+        app:layout_constraintTop_toBottomOf="@+id/txteditStreet"
+        app:layout_constraintVertical_bias="0.09"
+        tools:hint="@string/Street2" />
+
+
+    <EditText
+        android:id="@+id/txtEditCont"
+        android:layout_width="287dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:inputType="phone"
+        android:background="@drawable/custom_input"
+        android:hint="Contact Number"
+        android:paddingLeft="@dimen/dimen35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txtEditname"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/txtcont2"
+        app:layout_constraintTop_toBottomOf="@+id/txtEditname"
+        app:layout_constraintVertical_bias="0.049" />
+
+    <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+        android:id="@+id/android_material_design_spinner"
+        android:layout_width="374dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/custom_input"
+        android:hint="Select City"
+        android:paddingLeft="@dimen/dimen35sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnupdateAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.567"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txteditStreet2"
+        app:layout_constraintVertical_bias="0.344"
+        tools:ignore="MissingConstraints,UnknownId" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

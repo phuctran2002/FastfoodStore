@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:orientation="vertical"
+        android:background="#ffff8800" >
+
+        <TextView
+            android:id="@+id/message4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="40dp"
+            android:gravity="center_horizontal"
+            android:text="Thank You!"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/message5"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="-25dp"
+            android:gravity="center_horizontal"
+            android:text="You transaction was success"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:layout_width="113dp"
+            android:layout_height="96dp"
+            android:layout_marginLeft="145dp"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@mipmap/ic_right_mark_round"
+
+            />
+</LinearLayout>
+    <TextView
+        android:id="@+id/message1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Success"
+        android:textAlignment="center"
+        android:textColor="@color/Brown"
+        android:textSize="36sp"
+        android:gravity="center_horizontal" />
+
+
+    <TextView
+        android:id="@+id/message6"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:gravity="center_horizontal"
+        android:paddingLeft="20dp"
+        android:text="Amount:                        Complete"
+        android:textAlignment="textStart"
+        android:textColor="@color/darkGray"
+        android:textSize="25sp" />
+
+
+
+    <ImageView
+        android:id="@+id/imagelogo"
+        android:layout_width="match_parent"
+        android:layout_height="202dp"
+        app:srcCompat="@mipmap/fastfood"
+
+        />
+
+
+    <Button
+        android:id="@+id/btncomplete"
+        android:layout_width="291dp"
+        android:layout_height="68dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button_background"
+        android:text="Complete"
+        android:textColor="@color/colorWhite" />
+
+</LinearLayout>

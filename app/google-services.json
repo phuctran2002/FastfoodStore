@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992382940639",
+    "project_id": "fastfood-store-79628",
+    "storage_bucket": "fastfood-store-79628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992382940639:android:fa28b46c655a1465c0c06a",
+        "android_client_info": {
+          "package_name": "com.example.fastfoodstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992382940639-qobon3lgcpqmvj2ukaeunr6uhl9nd7jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wUBZ7nybllHFuHLldpi3oPVlHVXWPfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992382940639-qobon3lgcpqmvj2ukaeunr6uhl9nd7jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

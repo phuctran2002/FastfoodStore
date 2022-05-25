@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Address">
+
+
+    <Button
+        android:id="@+id/btnupdate_userprofile_details"
+        android:layout_width="309dp"
+        android:layout_height="53dp"
+        android:layout_marginBottom="88dp"
+        android:background="@drawable/button_background"
+        android:text="Update"
+        android:textColor="@color/colorWhite"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.823" />
+
+    <TextView
+        android:id="@+id/txtcars"
+        android:layout_width="402dp"
+        android:layout_height="68dp"
+        android:text="@string/EditAddressHeader"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.055" />
+
+    <EditText
+        android:id="@+id/txtuser_profile_edit_name"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:background="@drawable/custom_input"
+        android:paddingLeft="@dimen/dimen35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.476"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtcars"
+        app:layout_constraintVertical_bias="0.104"
+        tools:hint="Name" />
+
+    <EditText
+        android:id="@+id/txtuserprofile_editemail"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="452dp"
+        android:inputType="textEmailAddress"
+        android:background="@drawable/custom_input"
+        android:paddingLeft="@dimen/dimen35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txtuser_profile_edit_name"
+        app:layout_constraintStart_toStartOf="@+id/txtuser_profile_edit_name"
+        app:layout_constraintTop_toBottomOf="@+id/txteditStreet"
+        app:layout_constraintVertical_bias="0.0"
+        tools:hint="Email" />
+
+    <EditText
+        android:id="@+id/userprofile_editcontactNo"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="388dp"
+        android:background="@drawable/custom_input"
+        android:paddingLeft="@dimen/dimen35sp"
+        android:inputType="phone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txteditStreet2"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txteditStreet2"
+        app:layout_constraintVertical_bias="0.0"
+        tools:hint="Contact" />
+
+
+    <EditText
+        android:id="@+id/userprofile_editpwd"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="316dp"
+        android:background="@drawable/custom_input"
+        android:inputType="textPassword"
+        android:paddingLeft="@dimen/dimen35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txteditStreet2"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txteditStreet2"
+        app:layout_constraintVertical_bias="0.0"
+        tools:hint="password" />
+
+    <EditText
+        android:id="@+id/userprofile_editconfirmPassword"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="244dp"
+        android:background="@drawable/custom_input"
+        android:paddingLeft="@dimen/dimen35sp"
+        android:inputType="textPassword"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txteditStreet2"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txteditStreet2"
+        app:layout_constraintVertical_bias="0.0"
+        tools:hint="confirm password" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
